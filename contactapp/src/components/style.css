@@ -1,0 +1,14 @@
+#container{
+    width: 400px;
+    background-color: aliceblue;
+    padding: 20px;
+  }
+  input{
+    width:100%;
+    box-sizing: border-box;
+    margin-top: 5px;
+  }
+  button{
+    margin-top: 15px;
+  }
+  
